@@ -30,9 +30,7 @@ header a {
   margin-right: 16px;
   text-decoration: none;
 }
-.portrait {
-  width: 250px;
-}
+
 input {
   border: 1px solid #cccccc;
   padding: 8px;
@@ -42,4 +40,8 @@ button {
   border: 1px solid #888888;
   color: black;
   padding: 8px;
+}
+.portrait {
+  width: 250px;
+  image-orientation: initial;
 }
